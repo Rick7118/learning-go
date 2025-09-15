@@ -21,4 +21,6 @@ func main() {
 
 	fmt.Print(split(17))
 
+	variables1()
+
 }
