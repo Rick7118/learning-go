@@ -26,5 +26,7 @@ func main() {
 	//variables
 	variables1()
 	variables2()
-
+	variables3()
+	variables4()
+	variables5()
 }
