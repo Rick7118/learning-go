@@ -6,10 +6,12 @@ func main() {
 	fmt.Println("Hello this is the first file in this learning go directory.")
 	fmt.Println("We are going to learn more and more about go as we progress")
 
+	//packages
 	packages1()
 	packages2()
 	packages3()
 
+	//functions
 	sum := add(3, 7)
 	fmt.Println("Sum is", sum)
 
@@ -21,6 +23,7 @@ func main() {
 
 	fmt.Print(split(17))
 
+	//variables
 	variables1()
 
 }
