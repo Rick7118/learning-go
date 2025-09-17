@@ -25,5 +25,6 @@ func main() {
 
 	//variables
 	variables1()
+	variables2()
 
 }
